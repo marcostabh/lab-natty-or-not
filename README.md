@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Um leão em plena praia de Copacabana, à noite??
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Desafio de gerar uma imagem que se aproxime da realidade o máximo possível
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Uso do ChatGPT com alguns comandos básicos e algumas repetições para atingir o objetivo aguardado
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Sequências de alterações na imagem até se aproximar do objetivo pretendido
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Imagem gerada que deixa boa margem de ser real
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
